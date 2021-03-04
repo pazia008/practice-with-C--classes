@@ -1,0 +1,16 @@
+C:\Users\pazia\workspace\csharp\exercises\classes\obj\Debug\net5.0\classes.csprojAssemblyReference.cache
+C:\Users\pazia\workspace\csharp\exercises\classes\obj\Debug\net5.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazia\workspace\csharp\exercises\classes\obj\Debug\net5.0\classes.AssemblyInfoInputs.cache
+C:\Users\pazia\workspace\csharp\exercises\classes\obj\Debug\net5.0\classes.AssemblyInfo.cs
+C:\Users\pazia\workspace\csharp\exercises\classes\obj\Debug\net5.0\classes.csproj.CoreCompileInputs.cache
+C:\Users\pazia\workspace\csharp\exercises\classes\bin\Debug\net5.0\classes.exe
+C:\Users\pazia\workspace\csharp\exercises\classes\bin\Debug\net5.0\classes.deps.json
+C:\Users\pazia\workspace\csharp\exercises\classes\bin\Debug\net5.0\classes.runtimeconfig.json
+C:\Users\pazia\workspace\csharp\exercises\classes\bin\Debug\net5.0\classes.runtimeconfig.dev.json
+C:\Users\pazia\workspace\csharp\exercises\classes\bin\Debug\net5.0\classes.dll
+C:\Users\pazia\workspace\csharp\exercises\classes\bin\Debug\net5.0\ref\classes.dll
+C:\Users\pazia\workspace\csharp\exercises\classes\bin\Debug\net5.0\classes.pdb
+C:\Users\pazia\workspace\csharp\exercises\classes\obj\Debug\net5.0\classes.dll
+C:\Users\pazia\workspace\csharp\exercises\classes\obj\Debug\net5.0\ref\classes.dll
+C:\Users\pazia\workspace\csharp\exercises\classes\obj\Debug\net5.0\classes.pdb
+C:\Users\pazia\workspace\csharp\exercises\classes\obj\Debug\net5.0\classes.genruntimeconfig.cache
